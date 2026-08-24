@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+%2B+GenAI+%2B+Ego+%3D+Production+Ready;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
 
 </div>
 
@@ -10,29 +10,24 @@
 <tr>
 <td width="60%" valign="top">
 
-### `whoami`
+### `~ $ cat kishore.json`
 
-```python
-class Kishore:
-    def __init__(self):
-        self.stack = "full stack"
-        self.specialty = "Python + GenAI"
-        self.ego = float("inf")
-        self.ai_tools = "all of them, obviously"
-        self.method = "vibecoding"
-
-    def can_do(self, anything: str) -> bool:
-        return True  # always
-
-    def debug(self, bug):
-        print("that's a feature now")
+```json
+{
+  "role": "Full Stack Developer",
+  "focus": ["Python", "GenAI", "LLM pipelines"],
+  "toolkit": "every major AI dev tool, fluently",
+  "workflow": "vibecoding — prompt, ship, iterate",
+  "status": "always building something",
+  "side_quest": "gamer 🎮"
+}
 ```
 
-- 🧠 I build with **Python** and **GenAI** — LLMs bend to my prompts, not the other way around
-- ⚡ I don't "learn" new AI tools, I **absorb** them
-- 🎨 Vibecoding isn't a shortcut, it's a **superior workflow**
-- 🏆 My code reviews itself, because it's usually right the first time
-- 🙃 Modesty is a technical debt I refuse to take on
+- 🧠 Building with **Python** + **GenAI** — LLMs, RAG pipelines, agents, the works
+- ⚡ Fluent across the major AI dev tools — I move fast between them
+- 🎨 Vibecoding as a workflow: prompt, ship, iterate, repeat
+- 🎮 When I'm not shipping code, I'm probably in a game
+- 🚀 Always tinkering with something new
 
 </td>
 <td width="40%" valign="top" align="center">
