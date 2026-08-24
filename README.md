@@ -1,12 +1,6 @@
 <div align="center">
 
-# KISHORE
-
-**Full Stack Developer · GenAI · Vibecoder**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
 
 </div>
 
