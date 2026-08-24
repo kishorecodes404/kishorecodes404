@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,100:6E40C9&height=4&width=1000" width="100%"/>
+# KISHORE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=4000&pause=2000&color=00FFB3&center=true&vCenter=true&width=500&height=70&lines=KISHORE" alt="name" />
-
-**Full Stack · GenAI · Vibecoder**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=I+don't+debug.+I+vibecode+until+it+submits." alt="Typing SVG" />
+**Full Stack Developer · GenAI · Vibecoder**
 
 </div>
 
