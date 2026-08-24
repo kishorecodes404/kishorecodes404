@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:7A5CFF&height=200&section=header&text=KISHORE&fontSize=60&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20%2B%20GenAI%20%2B%20Vibecoder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:0D1117&height=220&section=header&text=KISHORE&fontSize=68&fontColor=00FFB3&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20%2B%20GENAI%20%2B%20VIBECODER&descAlignY=56&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
 
