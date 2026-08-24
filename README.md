@@ -24,10 +24,10 @@
 ```
 
 - 🧠 Building with **Python** + **GenAI** — LLMs, RAG pipelines, agents, the works
-- ⚡ Fluent across the major AI dev tools — I move fast between them
-- 🎨 Vibecoding as a workflow: prompt, ship, iterate, repeat
-- 🎮 When I'm not shipping code, I'm probably in a game
-- 🚀 Always tinkering with something new
+- ⚡ Fluent across the major AI dev tools — most devs are still reading the docs I've already shipped with
+- 🎨 Vibecoding as a workflow: prompt, ship, iterate, repeat — it just works
+- 🎮 When I'm not shipping code, I'm probably in a game, probably winning
+- 🚀 Always tinkering with something new before it's trending
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-### 📈 proof I actually ship (allegedly humble evidence)
+### 📈 proof I actually ship
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorecodes404&layout=compact&theme=synthwave&hide_border=true"/>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-### 🐍 the commit snake (my ego, visualized)
+### 🐍 the commit snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/output/github-contribution-grid-snake-dark.svg" />
@@ -76,19 +76,18 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>⚠️ this animates automatically once you add the snake GitHub Action below — see setup notes</sub>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📡 reach me before I outgrow this platform too
+### 📡 reach me
 
-<a href="https://linkedin.com/in/kishorecodes404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/kishorecodes404"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kishorems2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/kishoree____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/917892752791"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:mskishore.deals@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -99,5 +98,5 @@
 <br/>
 
 <div align="center">
-<sub>this readme was vibecoded in one shot, first try, no notes — as expected</sub>
+<sub>this readme was vibecoded in one shot, first try — barely tried, still slaps</sub>
 </div>
