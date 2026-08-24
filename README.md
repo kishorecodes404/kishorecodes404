@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:7A5CFF&height=200&section=header&text=KISHORE&fontSize=60&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20%2B%20GenAI%20%2B%20Vibecoder&descAlignY=58&descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
 
 </div>
@@ -88,6 +90,12 @@
 <a href="https://instagram.com/kishoree____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://wa.me/917892752791"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:mskishore.deals@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+### 🎧 currently vibing to
+
+<img src="https://novatorem-kishorecodes404.vercel.app/api/spotify" width="400"/>
 
 <br/><br/>
 
