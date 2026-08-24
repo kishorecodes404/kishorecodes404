@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,50:6E40C9,100:FF3CAC&height=6&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,100:6E40C9&height=4&width=1000" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&height=70&lines=KISHORE" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=4000&pause=2000&color=00FFB3&center=true&vCenter=true&width=500&height=70&lines=KISHORE" alt="name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=FULL+STACK+%2B+GENAI+%2B+VIBECODER" alt="subtitle" />
+**Full Stack · GenAI · Vibecoder**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kishore.;I+don't+debug.+I+vibecode+until+it+submits.;Full+Stack+Dev+%2B+GenAI+Builder+%2B+Gamer;If+it+compiles%2C+it's+a+feature." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=I+don't+debug.+I+vibecode+until+it+submits." alt="Typing SVG" />
 
 </div>
 
