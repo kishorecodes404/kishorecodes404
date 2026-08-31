@@ -80,4 +80,4 @@
 <br/>
 <div align="center">
 <sub>this readme was vibecoded in one shot, first try — barely tried, still slaps</sub>
-</div>
+</div>v
