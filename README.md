@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-dashboard.png" width="100%" alt="MS Kishore">
-
+<div align="center"><img src="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/main/assets/efootball-card.png" width="380" alt="MS Kishore eFootball Player Card"></div>
 <br>
 
 # ⚡ MS KISHORE
