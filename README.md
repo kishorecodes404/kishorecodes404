@@ -12,26 +12,20 @@
 
 <br><br>
 
-## 🧠 THE TECH STACK THAT OBEYS ME
+<div align="center">
+🧠 THE TECH STACK THAT OBEYS ME
+<br> <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,git,github,docker,linux,firebase,postman,figma,aws" />
 
-🐍　🟨　🔷　⚛️　▲　🟢　⚡　🍃　🐘　🐬　🔧　🐙　🐳　💻　🐧　🔥　🚀　🎨　☁️　🤖
+<br><br>
 
 <br>
+🔗 FIND ME
+<br>
 
-**Python · JavaScript · TypeScript · React · Next.js · Node.js · FastAPI · MongoDB · PostgreSQL · MySQL · Git · GitHub · Docker · Linux · Firebase · Postman · Figma · AWS · AI · APIs · Automation · LLMs**
-
-<br><br>
-
-## 🔗 FIND ME
-
-[ 🔵 **LINKEDIN** ](https://www.linkedin.com/in/kishorems2007)
-&nbsp;&nbsp;&nbsp;
-[ 📸 **INSTAGRAM** ](https://www.instagram.com/kishoree____)
-&nbsp;&nbsp;&nbsp;
-[ ✉️ **EMAIL** ](mailto:mskishore.deals@gmail.com)
+<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>    <a href="https://instagram.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>    <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 
 <br><br>
 
-> **BUILD • SHIP • BREAK • FIX • REPEAT** ⚡
+<sub>BUILD • SHIP • BREAK • FIX • REPEAT ⚡</sub>
 
 </div>
