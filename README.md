@@ -2,31 +2,37 @@
 
 <img src="./assets/efootball-profile.png" width="100%" alt="MS Kishore — kishorecodes404"/>
 
-<br>
+<br><br>
 
-## ⚡ LIVE GITHUB STATS
+<h2><strong>⚡ LIVE GITHUB STATS</strong></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kishorecodes404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD21F&text_color=FFFFFF&icon_color=FFD21F&include_all_commits=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorecodes404&hide_border=true&background=0D1117&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F&sideLabels=FFFFFF&dates=777777" width="49%"/>
 
 <br><br>
 
-## 🧠 THE TECH STACK THAT OBEYS ME
+<h2><strong>🧠 THE TECH STACK THAT OBEYS ME</strong></h2>
 
-`Python` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Express`
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,postgres,git,github,langchain,docker,vscode,figma&theme=dark" />
 
-`MongoDB` · `PostgreSQL` · `Git` · `GitHub` · `LangChain` · `Docker` · `VS Code` · `Figma`
+<br><br>
 
-<br>
+<h2><strong>🔗 FIND ME</strong></h2>
 
-## 🔗 FIND ME
+<a href="https://www.linkedin.com/in/kishorems2007/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFD21F&labelColor=0D1117"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishorems2007-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorems2007/)
-[![Instagram](https://img.shields.io/badge/Instagram-kishoree____-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kishoree____/)
-[![Email](https://img.shields.io/badge/Email-mskishore.deals%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mskishore.deals@gmail.com)
+<a href="https://www.instagram.com/kishoree____/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FFD21F&labelColor=0D1117"/>
+</a>
 
-<br>
+<a href="mailto:mskishore.deals@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFD21F&labelColor=0D1117"/>
+</a>
 
-<sub>build • ship • break • fix • repeat ⚡</sub>
+<br><br>
+
+<sub><strong>BUILD • SHIP • BREAK • FIX • REPEAT ⚡</strong></sub>
 
 </div>
