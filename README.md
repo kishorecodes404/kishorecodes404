@@ -27,19 +27,13 @@
 # 🔗 FIND ME
 
 <a href="https://www.linkedin.com/in/kishorems2007">
-<img src="https://img.shields.io/badge/LINKEDIN-kishorems2007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-kishorems2007-111111?style=for-the-badge&logo=linkedin&logoColor=FFD21F">
 </a>
 
 <a href="https://www.instagram.com/kishoree____">
-<img src="https://img.shields.io/badge/INSTAGRAM-kishoree____-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/INSTAGRAM-kishoree____-111111?style=for-the-badge&logo=instagram&logoColor=FFD21F">
 </a>
 
 <a href="mailto:mskishore.deals@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-mskishore.deals%40gmail.com-FFD21F?style=for-the-badge&logo=gmail&logoColor=black">
+<img src="https://img.shields.io/badge/EMAIL-mskishore.deals%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=FFD21F">
 </a>
-
-<br><br>
-
-<sub>BUILD • SHIP • BREAK • FIX • REPEAT ⚡</sub>
-
-</div>
