@@ -1,19 +1,19 @@
 <div align="center">
 
-# ⚡ MS KISHORE
-
-### `DEVELOPER` • `VIBECODER` • `BUILDER`
-
-<img src="./assets/efootball-card.png" width="380" alt="MS Kishore eFootball Player Card">
+<img src="./assets/profile-dashboard.png" width="100%" alt="MS Kishore">
 
 <br>
 
-`🟢 ONLINE` &nbsp;&nbsp; `OVR 94` &nbsp;&nbsp; `KISHORE_DEV`
+# ⚡ MS KISHORE
 
-<br><br>
+### DEVELOPER &nbsp;•&nbsp; VIBECODER &nbsp;•&nbsp; BUILDER
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
+`🟢 ONLINE` &nbsp;&nbsp; `OVR 99` &nbsp;&nbsp; `DC` &nbsp;&nbsp; `KISHORE_DEV`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/kishorecodes404)
+[![Profile Views](https://komarev.com/ghpvc/?username=kishorecodes404&style=for-the-badge&label=PROFILE+VIEWS&color=111111)](https://github.com/kishorecodes404)
 
 </div>
 
@@ -25,136 +25,161 @@
 
 | ⚡ PAC | 🎯 DRI | 🧠 PAS | 💥 SHO | 🛡️ DEF | 💪 PHY |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **92** | **95** | **88** | **90** | **40** | **80** |
+| **92** | **95** | **94** | **91** | **76** | **88** |
 
-`POSITION: DEVELOPER` &nbsp; `PLAYSTYLE: VIBECODER` &nbsp; `FOOT: KEYBOARD`
-
-</div>
-
----
-
-## 🧬 ABOUT ME
-
-I build things, break things, fix things, and somehow ship them.
-
-I **vibe-code** my way from random ideas to working software.
-
-I like building products that actually do something instead of sitting
-in a folder named `final_final_v2`.
-
-> **IF IT COMPILES, IT'S A FEATURE.**
-
----
-
-## 🧰 TECH STACK
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white)
+`ATTACKING DEVELOPER` &nbsp;•&nbsp; `CREATIVE BUILDER` &nbsp;•&nbsp; `QUESTIONABLE DECISIONS`
 
 </div>
 
 ---
 
-# 📡 LIVE GITHUB // PLAYER DATA
+## 🧬 ABOUT THE PLAYER
 
-<div align="center">
+I'm **MS Kishore** — a developer who likes turning random ideas into things that actually work.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=7C3AED&include_all_commits=true&count_private=true" width="48%">
+I build, experiment, break stuff, fix it, and ship.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF88&fire=7C3AED&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777" width="48%">
+Currently cooking **Nova** and **Max — GenZ News**.
 
-<br><br>
+I don't really have a strict development process.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=00FF88&point=7C3AED&area=true&hide_border=true" width="96%">
+I have an idea.
 
-</div>
+I vibe-code.
+
+Something breaks.
+
+I pretend it was intentional.
+
+> **If it compiles, it's a feature.**
 
 ---
 
-# 🚧 CURRENTLY BUILDING
+## 🚧 CURRENTLY BUILDING
 
 <div align="center">
 
 ### 🟢 NOVA
 
-`AI` • `AUTOMATION` • `BUILDING IN PUBLIC`
+`AI` &nbsp;•&nbsp; `AUTOMATION` &nbsp;•&nbsp; `PRODUCT`
+
+Building something smarter than another boring dashboard.
+
+**STATUS — ACTIVE ⚡**
 
 <br>
 
 ### 🟢 MAX — GENZ NEWS
 
-`NEWS` • `GEN Z` • `REAL-TIME`
+`NEWS` &nbsp;•&nbsp; `GEN Z` &nbsp;•&nbsp; `REAL-TIME`
+
+News without the corporate-newsroom personality.
+
+**STATUS — ACTIVE ⚡**
 
 </div>
 
 ---
 
-# 🎮 PLAYSTYLE
+## 🧰 LOADOUT
 
 <div align="center">
 
-### ⚡ VIBECODER
+![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-Ideas → Code → Error → Fix → Ship
+![React](https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/EXPRESS-111111?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MONGODB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-### 🛠️ BUILDER
-
-If there's an idea, I'll probably try to build it.
-
-### 🧠 PROBLEM SOLVER
-
-`BUG FOUND` → `LOCK IN`
-
-### 🌙 NIGHT CODER
-
-Sleep is temporarily unavailable.
+![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_CODE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/FIGMA-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 📡 LIVE GITHUB STATS
 
 <div align="center">
 
-| 🚀 BUILDER | ⚡ VIBECODER | 🧠 DEBUGGER | 🔥 SHIPPER |
-|:---:|:---:|:---:|:---:|
-| `UNLOCKED` | `ACTIVE` | `GRINDING` | `ACTIVE` |
+<img src="https://github-readme-stats.vercel.app/api?username=kishorecodes404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true" width="49%">
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorecodes404&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777" width="49%">
 
-`IDEA` → `BUILD` → `BREAK` → `FIX` → `SHIP`
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorecodes404&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="96%">
 
 </div>
 
 ---
 
-# 📋 MANAGER NOTES
+## 🎯 PLAYSTYLE
 
-> Creative player with an aggressive attacking style.
->
-> Takes questionable technical decisions.
->
-> Somehow gets the job done.
->
-> **Potential: HIGH**
->
-> **Sleep schedule: UNKNOWN**
+<div align="center">
+
+`CREATIVITY` &nbsp;&nbsp; ████████████████████ &nbsp;&nbsp; **95**
+
+`EXECUTION` &nbsp;&nbsp;&nbsp; ██████████████████░░ &nbsp;&nbsp; **90**
+
+`PROBLEM SOLVING` ███████████████████░░ &nbsp;&nbsp; **93**
+
+`DEBUGGING` &nbsp;&nbsp;&nbsp;&nbsp; ████████████████░░░░ &nbsp;&nbsp; **82**
+
+`SLEEP` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██░░░░░░░░░░░░░░░░░░ &nbsp;&nbsp; **12**
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+`🚀 BUILDER` &nbsp;&nbsp; `⚡ VIBECODER` &nbsp;&nbsp; `🐛 BUG SURVIVOR` &nbsp;&nbsp; `🔥 SHIPPER`
+
+<br><br>
+
+**IDEA** → **BUILD** → **BREAK** → **FIX** → **SHIP**
+
+</div>
+
+---
+
+## 🧠 DEVELOPER LOG
+
+> `09:00` — had an idea  
+> `09:15` — started building  
+> `11:30` — completely changed the architecture  
+> `14:00` — introduced three new bugs  
+> `17:00` — fixed two  
+> `23:47` — somehow works  
+> `23:48` — **DO NOT TOUCH IT**
+
+---
+
+## 🗣️ MANAGER SCOUTING REPORT
+
+**Technical ability:** suspiciously high
+
+**Decision making:** questionable
+
+**Commit messages:** depends on the mood
+
+**Ability to leave a project alone:** nonexistent
+
+**Potential:** ridiculous
+
+**Sleep schedule:** classified
 
 ---
 
@@ -162,24 +187,22 @@ Sleep is temporarily unavailable.
 
 # ⚽ NEXT MATCH
 
-### `BUILD SOMETHING EPIC`
+### BUILD SOMETHING WORTH SHIPPING.
 
-`STATUS: 🟢 READY`
-
-<br>
-
-**BUILD • BREAK • FIX • SHIP • REPEAT**
+`🟢 READY`
 
 <br>
 
-`eFOOTBALL MODE: ON`  
-`VIBE CODING: ENABLED`  
-`SLEEP: DISABLED`
+`BUILD` &nbsp;•&nbsp; `BREAK` &nbsp;•&nbsp; `FIX` &nbsp;•&nbsp; `SHIP`
 
 <br><br>
 
-### MS KISHORE
+**MS KISHORE**
 
-`PLAYER ID: KISHORE_DEV`
+`eFOOTBALL MODE: ON` &nbsp;•&nbsp; `VIBE CODING: ENABLED`
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/FOLLOW_THE_GRIND-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorecodes404)
 
 </div>
