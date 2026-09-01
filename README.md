@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/efootball-profile.png" width="100%" alt="MS Kishore eFootball Developer Profile">
-
+<img src="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/main/assets/efootball-profile.png" width="100%" alt="MS Kishore eFootball Developer Profile">
 <br><br>
 
 # 📡 LIVE GITHUB STATS
