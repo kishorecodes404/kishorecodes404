@@ -13,19 +13,33 @@
 <br><br>
 
 <div align="center">
-🧠 THE TECH STACK THAT OBEYS ME
-<br> <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,git,github,docker,linux,firebase,postman,figma,aws" />
+<div align="center">
+
+<br>
+
+<h1>Stack that obeys me</h1>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,git,github,docker,linux,firebase,postman,figma,aws&theme=dark&perline=9" />
 
 <br><br>
 
-<br>
-🔗 FIND ME
-<br>
-
-<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>    <a href="https://instagram.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>    <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+—
+<h1>Find me</h1>
 
 <br><br>
 
-<sub>BUILD • SHIP • BREAK • FIX • REPEAT ⚡</sub>
+<a href="https://www.linkedin.com/in/kishorems2007">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/kishoree____">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hello@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" />
+</a>
 
 </div>
