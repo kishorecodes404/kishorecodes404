@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:hello@example.com">
+<a href="mailto:mskishore.deals@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" />
 </a>
 </div>
