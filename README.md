@@ -56,39 +56,7 @@
 
 <br/>
 
-<div align="center">
 
-### 📈 proof I actually ship
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorecodes404&layout=compact&theme=synthwave&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=kishorecodes404&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 the commit snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kishorecodes404/kishorecodes404/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -100,18 +68,6 @@
 <a href="mailto:mskishore.deals@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-### 🎧 currently vibing to
-
-<img src="https://novatorem-kishorecodes404.vercel.app/api/spotify" width="400"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kishorecodes404&label=people%20who%20came%20to%20witness%20greatness&color=00FFB3&style=flat-square"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 <sub>this readme was vibecoded in one shot, first try — barely tried, still slaps</sub>
