@@ -60,15 +60,18 @@
 
 <div align="center">
 
-### 📡 reach me
+<h1>Find me</h1>
+<br><br>
 
-<a href="https://linkedin.com/in/kishorems2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/kishoree____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/917892752791"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:mskishore.deals@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<div align="center">
-<sub>this readme was vibecoded in one shot, first try — barely tried, still slaps</sub>
+<a href="https://www.linkedin.com/in/kishorems2007">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/kishoree____">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mskishore.deals@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" />
+</a>
 </div>
