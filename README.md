@@ -14,7 +14,7 @@
 
 ```json
 {
-  "role": "Full Stack Developer",
+  "role": "Developer",
   "focus": ["Python", "GenAI", "LLM pipelines"],
   "toolkit": "every major AI dev tool, fluently",
   "workflow": "vibecoding — prompt, ship, iterate",
